@@ -1,7 +1,0 @@
-{
-  "devDependencies": {
-    "@types/bcrypt": "^5.0.0",
-    "@types/passport": "^1.0.11",
-    "@types/passport-jwt": "^3.0.8"
-  }
-}
